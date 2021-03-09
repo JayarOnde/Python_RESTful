@@ -1,8 +1,3 @@
-[![Build Status](https://img.shields.io/travis/JamieCressey/python-restful-client.svg)](https://travis-ci.org/JamieCressey/python-restful-client)
-[![PyPi Version](https://img.shields.io/pypi/v/RestfulClient.svg)](https://pypi.python.org/pypi/RestfulClient)
-[![PyPi Downloads](https://img.shields.io/pypi/dm/RestfulClient.svg)](https://pypi.python.org/pypi/RestfulClient)
-[![PyPi License](https://img.shields.io/pypi/l/RestfulClient.svg)](http://opensource.org/licenses/MIT)
-
 # Generic RESTful Python client
 
 A generic RESTful Python client for interacting with JSON APIs.
